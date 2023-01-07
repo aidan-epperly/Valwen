@@ -87,3 +87,120 @@ From that day forward, Yarra and Naru were inseparable. Naru loved teaching Yarr
 This bliss could not last forever.
 
 On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all of his creations looking for her, worried that the universe may have taken back his prize. After many hours of searching, the One Who Came Before found his beloved, dressed in all of her traveling clothes, stooping low to the ground fashioning a final present to Yarra. Enraged and heart broken at what he knew to be Naru's imminent departure, Yarra charged at Naru desperate to keep her with him forever. In order to escape Yarra's pursuit, Naru tore down reality itself in her retreat, fracturing the world upon which they both stood. Naru, familiar with the void she had called home, was easily able to move between the shards of reality. Yarra, in an effort to pursue Naru, created the Touchstones from the Earth so that he could follow wherever Naru went.
+
+---
+
+## The Aethir
+---
+#### Vanuk, the Tinkerer God
+- Alignment
+	- Neutral Good
+- Domains
+	- Artifice
+		- All
+	- Earth
+		- Metal
+	- Fire
+		- None
+	- Good
+		- None
+	- Protection
+		- Defense
+		- Fortification
+- Symbol
+	- A Hammer And A Chandelier
+---
+#### Valorum, the Law Giver
+- Alignment
+	- Lawful Good
+- Domains
+	- Glory
+		- Heroism
+		- Honor
+		- Legend
+	- Good
+		- Archon
+	- Law
+		- Archon
+		- Judgement
+		- Legislation
+		- Loyalty
+	- Nobility
+		- Aristocracy
+		- Leadership
+- Symbol
+	- A Set Of Bronze Scales
+---
+#### Ilil, the All-Mother
+- Alignment
+	- Chaotic Good
+- Domains
+	- Air
+		- All
+	- Animal
+		- All
+	- Chaos
+		- Azata
+		- Revelry
+	- Charm
+		- Love
+	- Earth
+		- None
+	- Fire
+		- None
+	- Good
+		- Azata
+	- Healing
+		- Medicine
+	- Knowledge
+		- Thought
+	- Plant
+		- All
+	- Water
+		- All
+	- Weather
+		- All
+- Symbol
+	- A Cutting of a World Root
+---
+#### Strog, the Two-Faced Fool
+- Alignment
+	- True Neutral
+- Domains
+	- Chaos
+		- Riot
+		- Whimsy
+		- Entropy
+	- Law
+		- Slavery
+		- Tyranny
+	- Darkness
+		- All
+	- Sun
+		- All
+	- Liberation
+		- Freedom
+		- Revolution
+	- Madness
+		- All
+	- Magic
+		- All
+	- Trickery
+		- All
+- Symbol
+	- A Lone Tree Rising Between Two Hills
+---
+#### Dur, the Gate Keeper
+- Alignment
+	- Lawful Neutral
+- Domains
+	- Death
+		- Undead
+	- Law
+		- Slavery
+- Symbol
+	- A Broken Key
+---
+#### A Present Fit for a King
+
+In the beginning, there was Aether, and from it emerged Ilwen, a land unlike any known to mortal kind. A man could start at one end and walk for his entire life without reaching the end. In time, there came Aethir, giants born of Aether, to dwell upon the Isle of Ilwen. Valirum, the greatest of the giants, was made king over all for there was none other so well equipped for the task. Under his leadership the Aethir erected great towers and bridged the mountains...
