@@ -24,6 +24,8 @@
 		- All
 - Symbol
 	- A Hand Gripping A Blood Red Heart
+- Holy Weapon
+	- The Man Catcher
 ---
 #### Naru, the First Walker
 - Alignment
@@ -60,6 +62,8 @@
 		- Storms
 - Symbol
 	- Something Once Beautiful Made More Beautiful By Breaking
+- Holy Weapon
+	- Broken Objects
 ---
 #### The Edge, the End of Places
 - Alignment
@@ -73,6 +77,8 @@
 		- All
 - Symbol
 	- A Circle With A Horizontal Bar Across
+- Holy Weapon
+	- A Masterwork Longsword
 ---
 #### Souls Entwined and Torn Asunder
 
@@ -109,6 +115,8 @@ On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all
 		- Fortification
 - Symbol
 	- A Hammer And A Chandelier
+- Holy Weapon
+	- Warhammer
 ---
 #### Valorum, the Law Giver
 - Alignment
@@ -130,6 +138,8 @@ On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all
 		- Leadership
 - Symbol
 	- A Set Of Bronze Scales
+- Holy Weapon
+	- Long Spear
 ---
 #### Ilil, the All-Mother
 - Alignment
@@ -162,6 +172,8 @@ On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all
 		- All
 - Symbol
 	- A Cutting of a World Root
+- Holy Weapon
+	- Longbow
 ---
 #### Strog, the Two-Faced Fool
 - Alignment
@@ -189,6 +201,8 @@ On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all
 		- All
 - Symbol
 	- A Lone Tree Rising Between Two Hills
+- Holy Weapon
+	- Dwarven Urgosh
 ---
 #### Dur, the Gate Keeper
 - Alignment
@@ -200,7 +214,40 @@ On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all
 		- Slavery
 - Symbol
 	- A Broken Key
+- Holy Weapon
+	- Scythe
 ---
 #### A Present Fit for a King
 
-In the beginning, there was Aether, and from it emerged Ilwen, a land unlike any known to mortal kind. A man could start at one end and walk for his entire life without reaching the end. In time, there came Aethir, giants born of Aether, to dwell upon the Isle of Ilwen. Valirum, the greatest of the giants, was made king over all for there was none other so well equipped for the task. Under his leadership the Aethir erected great towers and bridged the mountains...
+In the beginning, there was Aether, and from it emerged Ilwen, a land unlike any known to mortal kind. A man could start at one end and walk for his entire life without reaching the end. Then came the Aethir, giants born of Aether, to dwell upon the Isle of Ilwen. Valorum, the greatest of the giants, was made king over all for there was none other so well equipped for the task. Under his leadership the Aethir erected great towers and bridged the mountains.
+
+In time, the great King fell in love with the goddess Ilil, and the two planned to be married. Wishing to give his brother a magnificent wedding gift, Vanuk began crafting a beautiful chandelier of islands much like their home of Ilwen. Wishing to use only the finest of materials, Vanuk sought the help of the mad god Strog, who was lord of light and darkness. After listening to Vanuk's request, the Two-Faced Fool told Vanuk that the only light bright enough would be the Great Light above. Happy with this response, Vanuk climbed into the skies with his largest sack to pluck handfuls of light from the Great Light above. He took and he took until his bag was full, and then he secreted away to his workshop to continue his grand gift.
+
+---
+
+## The Solahm
+---
+#### Algahm
+- Alignment
+	- Lawful Neutral
+- Domains
+	- Earth
+		- Metal
+	- Fire
+		- None
+	- Law
+		- Judgement
+		- Loyalty
+		- Inevitable
+	- Protection
+		- Defense
+		- Fortification
+		- Solitude
+	- Strength
+		- Resolve
+	- War
+		- Tactics
+- Symbol
+	- A Piece of Slag
+- Holy Weapon
+	- Morningstar
