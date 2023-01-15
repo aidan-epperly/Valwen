@@ -12,7 +12,7 @@ Patron family of [[Easton]], the city in the East, the Fieldings are a family of
 
 ### The Bruks
 
-Patron family of Forgrad, the city in the West, the Bruks are a family of Half-Orcs, most of whom do not live in Myrheim. The family values adventuring and self-determination. They maintain the local Walker guild and finance the great mead hall Halvask.
+Patron family of [[Forgrad]], the city in the West, the Bruks are a family of Half-Orcs, most of whom do not live in Myrheim. The family values adventuring and self-determination. They maintain the local Walker guild and finance the great mead hall [[Halvask]].
 
 ### The Wendles
 

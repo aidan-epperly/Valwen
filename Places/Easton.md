@@ -11,7 +11,7 @@ The largest and most prosperous city in [[Myrheim]], Easton is located, shocking
 ---
 Easton is a guild city, run by and for the guilds within its borders. Each guild elects two representatives who serve on the town council. The first member elect is given one vote for every hundred members they have in the guild, while the second is given one vote for every hundred gold their guild made in profit that month. This system was originally set up by the town's founding family [[Myrheim#The Fieldings|the Fieldings]], who have maintained a massive amount of power within Easton and are *technically* considered a guild unto themselves.
 
-#### Powerful Families
+#### Powerful Groups
 ---
 ##### The Fielding Family
 ---
