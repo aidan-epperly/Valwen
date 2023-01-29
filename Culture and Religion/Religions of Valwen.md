@@ -94,8 +94,6 @@ This bliss could not last forever.
 
 On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all of his creations looking for her, worried that the universe may have taken back his prize. After many hours of searching, the One Who Came Before found his beloved, dressed in all of her traveling clothes, stooping low to the ground fashioning a final present to Yarra. Enraged and heart broken at what he knew to be Naru's imminent departure, Yarra charged at Naru desperate to keep her with him forever. In order to escape Yarra's pursuit, Naru tore down reality itself in her retreat, fracturing the world upon which they both stood. Naru, familiar with the void she had called home, was easily able to move between the shards of reality. Yarra, in an effort to pursue Naru, created the Touchstones from the Earth so that he could follow wherever Naru went.
 
----
-
 ## The Aethir
 ---
 #### Vanuk, the Tinkerer God
@@ -222,8 +220,6 @@ On the Day of Fracture, Yarra awoke to find Naru missing. He quickly scoured all
 In the beginning, there was Aether, and from it emerged Ilwen, a land unlike any known to mortal kind. A man could start at one end and walk for his entire life without reaching the end. Then came the Aethir, giants born of Aether, to dwell upon the Isle of Ilwen. Valorum, the greatest of the giants, was made king over all for there was none other so well equipped for the task. Under his leadership the Aethir erected great towers and bridged the mountains.
 
 In time, the great King fell in love with the goddess Ilil, and the two planned to be married. Wishing to give his brother a magnificent wedding gift, Vanuk began crafting a beautiful chandelier of islands much like their home of Ilwen. Wishing to use only the finest of materials, Vanuk sought the help of the mad god Strog, who was lord of light and darkness. After listening to Vanuk's request, the Two-Faced Fool told Vanuk that the only light bright enough would be the Great Light above. Happy with this response, Vanuk climbed into the skies with his largest sack to pluck handfuls of light from the Great Light above. He took and he took until his bag was full, and then he secreted away to his workshop to continue his grand gift.
-
----
 
 ## The Solahm
 ---

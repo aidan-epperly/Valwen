@@ -22,3 +22,6 @@ Patron family of [[Easton]], the Fieldings are a family of Humans living on the 
 A powerful family in Easton, the Ymil family is known for their high end healing items, both magical and non-magical. The family founded and helps to run the Guild of Healers and Medics, which owns and operates Ilwel, a state-of-the-art medical facility boasting some of the best healthcare outside of the churches. Ilwel even offers healthcare free of charge to those who cannot afford to pay, which has given the family a lot of good will in the community.
 
 Recently, the head of the Ymil family passed away while his son was away on business, leaving the family without a strong leader. Nevertheless, the family is steadfast in its determination to help the community and improve the lives of all.
+
+##### The Durish Family
+---
